@@ -5,5 +5,10 @@ npm init --y
 
 Instalando o Express
 
-npm install --save
+npm install express --save
 
+--------------------------
+Para ativar o Git 
+git init
+
+Após criar o repositório na web, informei o git remote, depois o git add ., git commit e finalmente o git push.
